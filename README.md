@@ -1,1 +1,1 @@
-This Is sinple flask app !
+This Is simple flask app !
